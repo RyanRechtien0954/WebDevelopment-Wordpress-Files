@@ -1,2 +1,2 @@
 # WebDevelopment-Wordpress-Files
-This Repository is for the wordpress files
+This Repository is for the wordpress files 
